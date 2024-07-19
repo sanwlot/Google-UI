@@ -53,7 +53,9 @@ ul {
   border-radius: 20px;
   border: none;
   border: 1px solid rgba(128, 128, 128, 0.444);
-  text-indent: 30px;
+  /* text-indent: 30px; */
+  padding-left: 40px;
+  padding-right: 100px;
 
   &:focus,
   &:hover {
