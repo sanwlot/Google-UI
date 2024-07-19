@@ -102,12 +102,12 @@ ul {
   align-items: center;
 
   gap: 20px;
-  padding: 18px;
-  font-size: 14px;
+  padding: 16px;
+  font-size: 13px;
 }
 
 .top-right-navigation-bar a {
-  color: black;
+  color: rgb(50, 49, 49);
   text-decoration: none;
   &:hover {
     text-decoration: underline;
